@@ -41,9 +41,11 @@ A clean and beginner-friendly full-stack CRUD application.
 ---
 
 # Project Structure
+```
 simple-crud-project/
 ├── backend/
 └── frontend/
+```
 
 
 # Backend Setup
